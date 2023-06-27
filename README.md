@@ -11,5 +11,5 @@ precisely time-stamped to the save directory, and close the track and do it all 
 4. To stop, you can close Audacity or hit Ctrl+C in your terminal
 
 ## Notes
-1. I used a windows 10 64-bit machine with Python 3.11.4 installed directly from the microsoft store
+1. I used a Windows 10 64-bit machine with Python 3.11.4 installed directly from the microsoft store
 2. If you have issues with reading or writing to the pipe, make sure you have followed everything in step 1 correctly
